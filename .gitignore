@@ -1,5 +1,8 @@
 # Environment files
 .env
 
-# Build directory
+# Build directories
 build/
+
+# Local venv directories
+ice-cream-dataops/function_local_venvs/
